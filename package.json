@@ -1,0 +1,14 @@
+{
+  "name": "samscraper",
+  "version": "1.0.0",
+  "description": "Scrape wage determination data from sam.gov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Helm",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
